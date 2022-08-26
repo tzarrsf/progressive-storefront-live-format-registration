@@ -2,7 +2,9 @@
 
 > This is an autoresponder for Progressive Storefront Live Training submissions.
 
-## Configuration: Run as JT, Notify Immediately on Error, onFormSubmit throughout
+## Configuration:
+
+Run as JT, Notify Immediately on Error, onFormSubmit throughout
 
 ## Relevant Quips
 https://salesforce.quip.com/RdSPATbTdy4i
