@@ -25,4 +25,4 @@ Code is invoked via the onFormSubmit method. You can submit the form using your 
 
 # TODOs:
 
-1. Add a digest function to send at a fixed internal instead of sending every email live (per the Slack Channel approach): https://github.com/tzarrsf/commerce-slack-channel-request-form
+1. Add a digest function to send at a fixed internal instead of sending every email live [per the Slack Channel approach](https://github.com/tzarrsf/commerce-slack-channel-request-form)
