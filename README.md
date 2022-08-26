@@ -17,7 +17,7 @@ https://docs.google.com/spreadsheets/d/1rfyA4iMkC06AHW2h2iPrt8H1_vn_NLgMst2ag-lh
 
 ## Deployment
 
-Code.gs is loaded into Extensions > Apps Script (from the top menu)
+Code.gs is loaded into Extensions > Apps Script (from the top menu of the sheet)
 
 # How to launch or test
 
